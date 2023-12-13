@@ -1,0 +1,10 @@
+Partie Collecte de données
+
+- écrire script pour collectes de données, les nettoyer et ajouter de nouvelles données 
+- inserer ces données dans une db 
+
+
+Partie IA
+
+- a partir des données de la bd , developper modèle deep learning pour la predicition de prix
+- faire une instance Flask + pytorch pour l'inference et mettre sans sosu docker 
